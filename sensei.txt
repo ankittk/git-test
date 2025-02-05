@@ -1,2 +1,2 @@
 # file 3
-sensei is good
+sensei is bad
